@@ -1,0 +1,5 @@
+Consumer Key (API Key)	yJ6bbq71nHV8JwiTyT06aLDjs
+Consumer Secret (API Secret)	X8njIXIVnyyScwSto1enHNUNlfOoov3OoHNDgViBn8Azd1p0ih
+Access Level	Read and write (modify app permissions)
+Owner	sent_mak
+Owner ID	773171005413916672
